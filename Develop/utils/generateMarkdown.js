@@ -28,7 +28,7 @@ function renderLicenseSection(license) {
     return`
     ## License
     (#Table-of-Contents)
-    The application is covered under the following license:
+    This project is covered under the following license:
     ${renderLicenseLink(license)}
     `;
   } else {
