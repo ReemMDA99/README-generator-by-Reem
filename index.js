@@ -1,5 +1,4 @@
 // Include packages needed for this application
-
 const inquirer = require('inquirer');
 const fs = require('fs');
 const generateMarkdown = require('./utils/generateMarkdown.js');
@@ -16,7 +15,7 @@ const questions = [
     validate: titleInput => {
         if(titleInput) {
             return true;
-        }else {
+        } else {
             console.log('Please enter title of your project');
             return false;
         }
@@ -101,7 +100,9 @@ const questions = [
     "MIT", 
     "GNU General Public License 2.0", 
     "Apache License 2.0", 
-    "None"],
+    "BSD 3-Clause",
+    "ISC",
+],
 },
 //Github user
 {
