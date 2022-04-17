@@ -1,13 +1,16 @@
 // Include packages needed for this application
+
 const inquirer = require('inquirer');
 const fs = require('fs');
 const generateMarkdown = require('./utils/generateMarkdown.js');
 const fileName = "README.md";
+
 // Create an array of questions for user input
 const questions = [
-//Title
+
+    //Title
 {
-    type: input,
+    type: 'input',
     name: 'title',
     message:'What is the Title of your project?',
     validate: titleInput => {
@@ -25,7 +28,7 @@ const questions = [
     name: 'description',
     message: "Add description to your project?",
     validate: descriptionInput => {
-        if (description) {
+        if(descriptionInput) {
             return true;
         } else {
             console.log('Please enter a good description to your project');
@@ -105,8 +108,8 @@ const questions = [
     type: 'input',
     name:'githubUsername',
     message:'What is your GitHub username?',
-    validate: githubInput => {
-        if (githubInput) {
+    validate: githubUsernameInput => {
+        if (githubUsernameInput) {
             return true;
         } else {
             console.log('Please provide your github username');
