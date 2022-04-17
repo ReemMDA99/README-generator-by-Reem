@@ -1,14 +1,23 @@
 {
-  "name": "static-site",
+  "name": "readme-generator-by-reem",
   "version": "1.0.0",
-  "description": "",
+  "description": "A README.md file generator for users to create readme file conveniently.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ReemMDA99/README-generator-by-Reem.git"
+  },
+  "keywords": [
+    "Readme",
+    "generator"
+  ],
+  "author": "Reem",
   "license": "ISC",
-  "dependencies": {
-    "inquirer": "^6.3.1"
-  }
+  "bugs": {
+    "url": "https://github.com/ReemMDA99/README-generator-by-Reem/issues"
+  },
+  "homepage": "https://github.com/ReemMDA99/README-generator-by-Reem#readme"
 }
