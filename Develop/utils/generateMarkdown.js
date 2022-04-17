@@ -35,16 +35,7 @@ function renderLicenseSection(license) {
     return '';
   }
 }
-// Function that returns license in table of contents
-function renderLicenseTable(license) {
-  if(license !== 'no license') {
-    return `
-    *[License](#license)
-    `;
-  }else {
-    return '';
-  }
-}
+
 // create a function to generate markdown for README
 function generateMarkdown(data) {
   return `
@@ -68,6 +59,7 @@ function generateMarkdown(data) {
   ${data.description}
 
   ## Usage
+
   ${data.usage}
 
   ## Contributions
@@ -84,9 +76,6 @@ function generateMarkdown(data) {
 
   ## Email
   ${data.email}
-
-`;
-
+  `;
 }
-
 module.exports = generateMarkdown;
