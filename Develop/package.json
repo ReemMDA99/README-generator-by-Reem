@@ -19,5 +19,10 @@
   "bugs": {
     "url": "https://github.com/ReemMDA99/README-generator-by-Reem/issues"
   },
-  "homepage": "https://github.com/ReemMDA99/README-generator-by-Reem#readme"
+  "homepage": "https://github.com/ReemMDA99/README-generator-by-Reem#readme",
+  "dependencies": {
+    "inquirer": "^8.2.2"
+  }
 }
+
+

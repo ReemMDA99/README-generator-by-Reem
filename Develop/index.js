@@ -2,7 +2,7 @@
 const inquirer = require('inquirer');
 const fs = require('fs');
 const generateMarkdown = require('./utils/generateMarkdown.js');
-
+const fileName = "README.md";
 // Create an array of questions for user input
 const questions = [
 //Title
@@ -127,8 +127,6 @@ const questions = [
         }
     }
 },
-
-
 ];
 
 // Create a function to write README file
