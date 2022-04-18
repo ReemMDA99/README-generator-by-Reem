@@ -1,5 +1,5 @@
 
-  # j
+  # ]v
   
    ![Badge](https://img.shields.io/badge/License-$%7Blicense%7D-blueviolet)
     
@@ -16,36 +16,36 @@
   9. [Questions](#email)
 
   ## Title
-  j
+  ]v
 
   ## Description
-  j
+  v
 
   ## Installation
   
-  j
+  v
 
   ## Usage
 
-  j
+  vv
 
   ## Contribute
-  j
+  v
   
   ## Tests
-  j
+  v
 
   ## License
   
   
     This project is covered under the following license:
     
-    [GNU General Public License 2.0](https://choosealicense.com/licenses/GNU General Public License 2.0)
+   ![MIT](https://img.shields.io/badge/Licenses/MIT)(https://opensource.org/licenses/MIT)
     
     
 
   ## GitHub
-  [GitHub](https://github.com/j)
+  [GitHub](https://github.com/v)
   ## Email
-  j
+  v
   
