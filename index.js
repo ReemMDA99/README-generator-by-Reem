@@ -68,8 +68,8 @@ const questions = [
     type:'input',
     name:'contribute',
     message: "How can people Contribute to your project?",
-    validate: contributerInput => {
-        if(contributerInput) {
+    validate: contributeInput => {
+        if(contributeInput) {
             return true;
         } else {
             console.log('Please enter Contribution Guidelines');
@@ -77,16 +77,16 @@ const questions = [
         }
     }
 },
-//Test Instructions
+//Tests
 {
     type: 'input',
-    name: 'test',
-    message: 'Please provide instructions on how to test the app?',
-    validate: testInput => {
-        if(testInput) {
+    name: 'tests',
+    message: 'How to test the application?',
+    validate: testsInput => {
+        if(testsInput) {
             return true;
         } else {
-            console.log('Please enter your use test instructions!');
+            console.log('Enter your use test instructions!');
             return false;
         }
     }
