@@ -2,7 +2,7 @@
 const inquirer = require('inquirer');
 const fs = require('fs');
 const generateMarkdown = require('./utils/generateMarkdown.js');
-const fileName = "README.md";
+const fileName = "generated-README.md";
 
 // Create an array of questions for user input
 const questions = [
@@ -40,8 +40,8 @@ const questions = [
      type:'input',
      name:'installation',
      message: 'Step-by-step guidance to install this project ',
-     validate: installationInput => {
-         if(installationInput) {
+     validate: installInput => {
+         if(installInput) {
              return true;
          } else {
              console.log('Please enter installation instructions');
@@ -66,10 +66,10 @@ const questions = [
 //Contribution
 {
     type:'input',
-    name:'contribution',
+    name:'contribute',
     message: "How can people Contribute to your project?",
-    validate: contributionInput => {
-        if(contributionInput) {
+    validate: contributerInput => {
+        if(contributerInput) {
             return true;
         } else {
             console.log('Please enter Contribution Guidelines');
