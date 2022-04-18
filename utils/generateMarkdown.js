@@ -3,8 +3,8 @@
 function renderLicenseBadge(license) {
   if(license !== 'no license') {
     return `
-   ![Badge](https://img.shields.io/badge/License-$%7Blicense%7D-blueviolet)
-    `;
+   ![Badge](https://img.shields.io/badge/License-${license}-blueviolet)
+    `; 
   }else { 
     return '';
   }
@@ -14,7 +14,7 @@ function renderLicenseBadge(license) {
 function renderLicenseLink(license) {
   if(license !== 'no license') {
     return`
-   ![${license}](https://img.shields.io/badge/Licenses/${license})(https://opensource.org/licenses/${license})
+   [![License: ${license}](https://img.shields.io/badge/License-${license}-blueviolet.svg) ]
     `;
   } else {
     return '';

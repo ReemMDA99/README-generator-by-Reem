@@ -93,14 +93,14 @@ const questions = [
 },
 // License
 {
-    type: 'checkbox',
+    type: 'list',
     name: 'license',
     message: 'Which license you have used for your project?',
     choices: [
     "MIT", 
-    "GNU General Public License 2.0", 
-    "Apache License 2.0", 
-    "BSD 3-Clause",
+    "GNU", 
+    "Apache", 
+    "BSD",
     "ISC",
 ],
 },
