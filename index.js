@@ -66,10 +66,10 @@ const questions = [
 //Contribution
 {
     type:'input',
-    name:'contributing',
+    name:'contribution',
     message: "How can people Contribute to your project?",
-    validate: contributingInput => {
-        if(contributingInput) {
+    validate: contributionInput => {
+        if(contributionInput) {
             return true;
         } else {
             console.log('Please enter Contribution Guidelines');
@@ -83,7 +83,7 @@ const questions = [
     name: 'test',
     message: 'Please provide instructions on how to test the app?',
     validate: testInput => {
-        if (testInput) {
+        if(testInput) {
             return true;
         } else {
             console.log('Please enter your use test instructions!');
