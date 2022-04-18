@@ -1,7 +1,7 @@
 
-  # pp
+  # m
   
-   [![Badge]](https://img.shields.io/badge/License-$%7Blicense%7D-blueviolet)
+   ![Badge](https://img.shields.io/badge/License-$%7Blicense%7D-blueviolet)
     
   ## Table-of-Contents
   
@@ -16,34 +16,33 @@
   9. [Questions](#email)
 
   ## Title
-  pp
+  m
 
   ## Description
-  pp
+  m
 
   ## Usage
 
-  pp
+  m
 
   ## Contributions
-  pp
+  m
   
   ## Test-Instructions
-  pp
+  m
 
   ## License
   
-    ## License
-    (#Table-of-Contents)
+  
     This project is covered under the following license:
     
-    [MIT,GNU General Public License 2.0](https://choosealicense.com/licenses/MIT,GNU General Public License 2.0)]
+    [MIT](https://choosealicense.com/licenses/MIT)
     
     
 
   ## GitHub
-  p
+  m
 
   ## Email
-  p
+  m
   
