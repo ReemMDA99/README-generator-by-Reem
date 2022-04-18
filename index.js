@@ -122,7 +122,7 @@ const questions = [
 {
     type: 'input',
     name:'email',
-    message:'What is your Email?',
+    message:'If you have any questions please reach me out via Email?',
     validate: emailInput => {
         if (emailInput) {
             return true;

@@ -3,7 +3,7 @@
 function renderLicenseBadge(license) {
   if(license !== 'no license') {
     return `
-    [![Badge](https://img.shields.io/badge/License-${license}-blueviolet)]
+   [![Badge]](https://img.shields.io/badge/License-$%7Blicense%7D-blueviolet)
     `;
   }else { 
     return '';
@@ -14,7 +14,7 @@ function renderLicenseBadge(license) {
 function renderLicenseLink(license) {
   if(license !== 'no license') {
     return`
-    [${license}](https://choosealicense.com/licenses/${license})]
+    [${license}](https://choosealicense.com/licenses/${license})
     `;
   } else {
     return '';
@@ -45,12 +45,13 @@ function generateMarkdown(data) {
   
   1. [Title](#title)
   2. [Description](#description)
-  3. [Usage](#usage)
-  4. [Contribution](#contributing)
-  5. [Test-instructions](#test)
-  6. [License](#license)
-  7. [Github-user](#githubUsername)
-  8. [contact](#email)
+  3. [Installation](#Installation)
+  4. [Usage](#usage)
+  5. [Contribution](#contributing)
+  6. [Test-instructions](#test)
+  7. [License](#license)
+  8. [Github-user](#githubUsername)
+  9. [Questions](#email)
 
   ## Title
   ${data.title}
