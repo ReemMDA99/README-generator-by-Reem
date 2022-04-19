@@ -43,26 +43,24 @@ Please include the names and details if you wish to contribute to this project
 
 ## Tests
 
-To test this application please go to the root directory of your project in vs code and then run "node index.js". You will have to answer all the required questions in order to generate a readme file.
+To test this application please go to the root directory of your project in vs code and then run 'node index.js'. You will have to answer all the required questions in order to generate a readme file.
 
 ## Screenshots
 
 ![image](./utils/images/Picture1.png)
-![image](./utils/images/Picture2.png)
-![image](./utils/images/Picture3.png)
 
 ## VideoClip
 
 This video demonstrates following criteria:
-### How a user would invoke the application from the command line.
+#### How a user would invoke the application from the command line.
 
-### How a user would enter responses to all of the prompts in the application.
+#### How a user would enter responses to all of the prompts in the application.
 
-### A generated README that matches the user input and has a functioning table of contents.
+#### A generated README that matches the user input and has a functioning table of contents.
 
-![Mark Down Tutorial](https://drive.google.com/file/d/1N-BOPz442gt1t6RhMmGIyawjQBDYpnNK/view)
+![URL to Video](https://drive.google.com/file/d/1N-BOPz442gt1t6RhMmGIyawjQBDYpnNK/view?usp=sharing)
 
-[![Img alt text](./utils/images/Readme-generator.mp4)]
+![GIF](./utils/images/Readme%20generator%20by%20Reem.gif)
 
 ## User-Story
 AS A developer
