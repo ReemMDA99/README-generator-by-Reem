@@ -1,5 +1,5 @@
 
-  # e
+  # Readme Generator
   
    ![Badge](https://img.shields.io/badge/License-MIT-blueviolet)
     
@@ -16,24 +16,24 @@
   9. [Questions](#email)
 
   ## Title
-  e
+  Readme Generator
 
   ## Description
-  e
+  An automated README.md generator that uses the Inquirer NPM, File System (FS), and Node.js to automatically create README markdown files.
 
   ## Installation
   
-  e
+  To install readme generator a user should have a code editor with a terminal/ GitBash/CLI to run the Node. The user must install Node.js and then Inquirer Node Package Manager to have access to it.
 
   ## Usage
 
-  e
+  After installation is complete, run the following code: ‘node index.js’ in the terminal. Answer the prompts and after completion, you should see a console log showing your answers to your prompts, a message that says ‘Success!’, and you should see your file called ‘generated-README.md’. It’s generated in mark down syntax so you can copy and paste that code into your project.
 
   ## Contribute
-  e
+  Please include the names and details if you wish to contribute to this project
   
   ## Tests
-  e
+  To test this application please go to the root directory of your project in vs code and then run 'node index.js'. You will have to answer all the required questions in order to generate a readme file.
 
   ## License
   
@@ -45,7 +45,7 @@
     
 
   ## GitHub
-  [GitHub](https://github.com/e)
+  [GitHub](https://github.com/ReemMDA99)
   ## Email
-  e
+  reem.mda0909@gmail.com
   
