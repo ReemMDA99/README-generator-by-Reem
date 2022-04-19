@@ -62,7 +62,7 @@ This video demonstrates following criteria:
 
 ![URL to Video](https://drive.google.com/file/d/1N-BOPz442gt1t6RhMmGIyawjQBDYpnNK/view?usp=sharing)
 
-![GIF](./utils/images/reem's%20readme%20gen.gif)
+![GIF](./utils/images/Readme%20generator_reem.gif)
 
 ## User-Story
 AS A developer
