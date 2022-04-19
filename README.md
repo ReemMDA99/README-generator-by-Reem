@@ -78,9 +78,11 @@ This application is protected by following License:
 
 ### GitHub
 
-Reem: https://github.com/ReemMDA99/README-generator-by-Reem
+Reem: 
+https://github.com/ReemMDA99/README-generator-by-Reem
 
-Deployed URL: (https://reemmda99.github.io/README-generator-by-Reem/)
+Generated README.md file: 
+https://github.com/ReemMDA99/README-generator-by-Reem/blob/main/generated-README.md
 
 ### Email
  [Email: reem.mda0909@gmail.com](mailto:reem.mda0909@gmail.com)
