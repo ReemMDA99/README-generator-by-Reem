@@ -1,7 +1,7 @@
 
-  # My Readme Project 
+  # e
   
-   ![Badge](https://img.shields.io/badge/License-GNU-blueviolet)
+   ![Badge](https://img.shields.io/badge/License-MIT-blueviolet)
     
   ## Table-of-Contents
   
@@ -16,39 +16,36 @@
   9. [Questions](#email)
 
   ## Title
-  
-  This README generator will allow the user to answer a series of specific questions and create a professional complete README based on their responses. It will take a couple minutes and provide the developer with the ability to make their project complete and more professional, increasing the likely hood that someone will want to use their app over similar apps without a README.
-
+  e
 
   ## Description
-  This README generator will allow the user to answer a series of specific questions and create a professional complete README based on their responses.
+  e
 
   ## Installation
   
-  To install readme generator a user should have a code editor with a terminal/ GitBash/CLI to run the Node. The user must install Node.js and then Inquirer Node Package Manager to have access to it
+  e
 
   ## Usage
 
-  After installation is complete, run the following code: ‘node index.js’ in the terminal. Answer the prompts and after completion, you should see a console log showing your answers to your prompts, a message that says ‘Success!’, and you should see your file called ‘generated-README.md’. It’s generated in mark down syntax so you can copy and paste that code into your project!
+  e
 
   ## Contribute
-  Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+  e
   
   ## Tests
-  Please make sure to update tests as appropriate.
+  e
 
   ## License
   
   
     This project is covered under the following license:
     
-   ![License: GNU](https://img.shields.io/badge/License-GNU-blueviolet.svg) 
+   ![License: MIT](https://img.shields.io/badge/License-MIT-blueviolet.svg)
     
     
 
   ## GitHub
-  [GitHub](https://github.com/op)
-  
+  [GitHub](https://github.com/e)
   ## Email
-  reem.mda0909@gmail.com
+  e
   
