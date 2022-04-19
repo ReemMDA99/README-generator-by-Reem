@@ -48,6 +48,8 @@ To test this application please go to the root directory of your project in vs c
 ## Screenshots
 
 ![image](./utils/images/Picture1.png)
+![image](./utils/images/Picture1.png)
+![image](./utils/images/Picture1.png)
 
 ## VideoClip
 
@@ -60,7 +62,7 @@ This video demonstrates following criteria:
 
 ![URL to Video](https://drive.google.com/file/d/1N-BOPz442gt1t6RhMmGIyawjQBDYpnNK/view?usp=sharing)
 
-![GIF](./utils/images/Readme%20generator%20by%20Reem.gif)
+![GIF](./utils/images/reem's%20readme%20gen.gif)
 
 ## User-Story
 AS A developer
